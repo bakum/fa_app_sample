@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<!--This text is generated automatically, do not delete it. 'FBA Toolkit', www.profi1c.ru-->
-	<string name="app_name">"Тестовое приложение"</string>
-	<string name="app_package">"net.bakum.fu.samples"</string>
-	<string name="app_id">"FA_APP_SAMPLE"</string>
-	<string name="app_descr">""</string>
-	<string name="feedback_author">""</string>
-	<string name="feedback_tel">""</string>
-	<string name="feedback_email">""</string>
-	<string name="feedback_copyright">""</string>
-	<string name="fba_ws_server">"10.0.2.2"</string>
-	<string name="fba_ws_service_name">"fbaService.1cws"</string>
-	<string name="fba_ws_app_namespace">"splast_upr"</string>
+	<string name="app_name">Test application</string>
+	<string name="app_package" translatable="false">"net.bakum.fu.samples"</string>
+	<string name="app_id" translatable="false">"FA_APP_SAMPLE"</string>
+	<string name="app_descr" translatable="false">""</string>
+	<string name="feedback_author" translatable="false">Bakum.V</string>
+	<string name="feedback_tel" translatable="false">+380(50)4209764</string>
+	<string name="feedback_email" translatable="false">bakum.v@gmail.com</string>
+	<string name="feedback_copyright" translatable="false">Stekloplast</string>
+	<string name="fba_ws_server" translatable="false">"10.0.2.2"</string>
+	<string name="fba_ws_service_name" translatable="false">"fbaService.1cws"</string>
+	<string name="fba_ws_app_namespace" translatable="false">"splast_upr"</string>
 </resources>
