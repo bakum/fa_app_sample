@@ -39,7 +39,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.2.1'
-    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.android.support:multidex:1.0.2'
     compile 'ru.profi1c.fbatoolkit:engine:1.6.2'
     //If you use mapsforge in your project, uncomment next dependence:
     //compile 'ru.profi1c.fbatoolkit:addon_mapsforge:1.6.2'
