@@ -9,7 +9,7 @@
 	<string name="feedback_tel" translatable="false">+380(50)4209764</string>
 	<string name="feedback_email" translatable="false">bakum.v@gmail.com</string>
 	<string name="feedback_copyright" translatable="false">Stekloplast</string>
-	<string name="fba_ws_server" translatable="false">"10.0.2.2"</string>
+	<string name="fba_ws_server" translatable="false">"5.189.134.74"</string>
 	<string name="fba_ws_service_name" translatable="false">"fbaService.1cws"</string>
-	<string name="fba_ws_app_namespace" translatable="false">"splast_upr"</string>
+	<string name="fba_ws_app_namespace" translatable="false">"splast_upr/ws"</string>
 </resources>
