@@ -4,7 +4,7 @@
 	<string name="app_name">Test application</string>
 	<string name="app_package" translatable="false">"net.bakum.fu.samples"</string>
 	<string name="app_id" translatable="false">"FA_APP_SAMPLE"</string>
-	<string name="app_descr" translatable="false">""</string>
+	<string name="app_descr">Application for tests</string>
 	<string name="feedback_author" translatable="false">Bakum.V</string>
 	<string name="feedback_tel" translatable="false">+380(50)4209764</string>
 	<string name="feedback_email" translatable="false">bakum.v@gmail.com</string>
